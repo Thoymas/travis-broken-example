@@ -6,4 +6,3 @@ php:
 script: phpunit Test.php
 notifications:
   email:
-    - thomas.p.larsson@gmail.com
